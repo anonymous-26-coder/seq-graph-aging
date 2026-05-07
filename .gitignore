@@ -1,0 +1,11 @@
+*.pth
+*.pkl
+*.npy
+*.h5
+checkpoint*/
+all-organs4/
+unhealthy-dataset/
+baselines/
+__pycache__/
+*.pyc
+.DS_Store
